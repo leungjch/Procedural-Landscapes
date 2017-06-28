@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\main.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  celestialObject.cpp
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\celestialobject.cpp(53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\celestialobject.cpp(55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\celestialobject.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\celestialobject.cpp(66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\celestialobject.cpp(79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\celestialobject.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\justin\documents\visual studio 2017\projects\sfmllandscapes\sfmllandscapes\celestialobject.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  sfmlLandscapes.vcxproj -> C:\Users\Justin\documents\visual studio 2017\Projects\sfmlLandscapes\Debug\sfmlLandscapes.exe
+  sfmlLandscapes.vcxproj -> C:\Users\Justin\documents\visual studio 2017\Projects\sfmlLandscapes\Debug\sfmlLandscapes.pdb (Partial PDB)
